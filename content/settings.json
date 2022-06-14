@@ -1,9 +1,9 @@
 {
   "siteMetadata": {
-    "language": "en_US",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "language": "en",
+    "siteUrl": "",
     "title": "Pragnath Chintalapati's Portfolio",
-    "titleTemplate": "%s · Portfolio Minimal",
+    "titleTemplate": "%s · Portfolio",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
     "author": "Pragnath Chintalapati",
     "avatar": "../content/images/gatsby.png",

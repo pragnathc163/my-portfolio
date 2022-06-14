@@ -1,14 +1,14 @@
 {
-  "intro": "Hey",
+  "intro": "",
   "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
+    "src": "",
+    "alt": ""
   },
   "title": "Pragnath Chintalapati",
   "subtitle": {
-    "prefix": "",
-    "highlight": "Student | Software Engineer",
-    "suffix": ""
+    "prefix": "Student | ",
+    "highlight": "Software Engineer",
+    "suffix": "."
   },
   "description": "Welcome to my portfolio, where you can get to know more about me and my work.",
   "socialProfiles": {

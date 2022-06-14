@@ -1,14 +1,11 @@
 ---
 imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageAlt: "Pragnath Chintalapati"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+Thrilled you are here to learn more about me! I'm Pragnath, a passionate developer and an informatics student at the University of Washington with a focus on software development. I enjoy problem-solving to develop simple and innovative solutions for complex problems to create impact.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+Ever since the very first programming workshop I attended in middle school, I've been amazed by how much of an impact every single line of code can have on the final product.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+I have experience with developing full stack applications, both web and mobile (iOS). I've been able to improve my skillset ranging across multiple programming languages, databases and frameworks due to projects offerred through coursework and my personal projects. I am always looking for exciting software development opportunities that can help me learn more and make an organization win at the same time.
