@@ -2,12 +2,12 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
+      "category": "Full Stack Application",
+      "title": "Sustainabear",
+      "description": "Sustainabear was built in a 48-hour group hackathon organized by WINFO. It is a marketplace for conscious consumptions! For every purchase made, a fraction of the profit is automatically donated to a preset charity or nonprofit of the vendor’s choice.",
       "tags": ["Content Integration", "Ready-2-Deploy"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/Sustainabear.png",
         "alt": "Quick Setup",
         "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
       },
