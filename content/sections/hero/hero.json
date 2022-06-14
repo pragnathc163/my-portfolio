@@ -8,11 +8,11 @@
   "subtitle": {
     "prefix": "",
     "highlight": "Student | Software Engineer",
-    "suffix": "."
+    "suffix": ""
   },
   "description": "Welcome to my portfolio, where you can get to know more about me and my work.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": ["LinkedIn", "Github"],
+    "showIcons": true
   }
 }
