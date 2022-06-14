@@ -13,11 +13,11 @@
       "github": "https://github.com/pragnathc163",
       "medium": "https://konstantinmuenster.medium.com",
       "linkedin": "https://www.linkedin.com/in/pragnathc163",
-      "mail": "mailto:pragnathc3@gmail.com"
+      "mail": "mailto:prag2002@uw.edu"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Pragnath Chintalapati" },
+    "logo": { "text": "" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },

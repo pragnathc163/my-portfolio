@@ -1,13 +1,9 @@
 {
-  "name": "Gatsby Starter For Portfolio Minimal",
-  "email": "example@mail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
-  "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
-  },
+  "name": "Pragnath Chintalapati",
+  "email": "prag2002@uw.edu",
+  "description": "Feel free to connect with me on my LinkedIn, or reach out to me via my email. Would love to be part of an opportunity to which I can bring my skillset to create impact.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github"],
     "showIcons": true
   }
 }

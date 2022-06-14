@@ -5,25 +5,25 @@
       "category": "Full Stack Application",
       "title": "Sustainabear",
       "description": "Sustainabear was built in a 48-hour group hackathon organized by WINFO. It is a marketplace for conscious consumptions! For every purchase made, a fraction of the profit is automatically donated to a preset charity or nonprofit of the vendor’s choice.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "tags": ["Swift", "JavaScript", "React", "Xcode"],
       "image": {
         "src": "../../images/Sustainabear.png",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "alt": "Sustainabear",
+        "linkTo": "https://anshaysaboo1586.wixsite.com/sustainabear"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/anshaysaboo/goldbears-ios"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://anshaysaboo1586.wixsite.com/sustainabear"
         }
       ]
     },
     {
-      "visible": true,
+      "visible": false,
       "category": "🧰 EXTENDABLE LAYOUT",
       "title": "Add more sections!",
       "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
@@ -41,7 +41,7 @@
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
   }

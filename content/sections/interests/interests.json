@@ -3,77 +3,77 @@
     {
       "label": "Java",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/java.png",
         "alt": ""
       }
     },
     {
       "label": "Python",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/python.png",
         "alt": ""
       }
     },
     {
       "label": "React",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/react.png",
         "alt": ""
       }
     },
     {
       "label": "Node.js",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/node-js.png",
         "alt": ""
       }
     },
     {
       "label": "HTML + CSS",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/html-5.png",
         "alt": ""
       }
     },
     {
       "label": "R",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/r.png",
         "alt": ""
       }
     },
     {
       "label": "SQL | NoSQL | JDBC",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/sql-server.png",
         "alt": ""
       }
     },
     {
       "label": "JavaScript",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/js.png",
         "alt": ""
       }
     },
     {
       "label": "MatLab | Simulink",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/matlab.png",
         "alt": ""
       }
     },
     {
       "label": "Azure",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/Azure.png",
         "alt": ""
       }
     },
     {
       "label": "Firebase",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/firebase.png",
         "alt": ""
       }
     }
