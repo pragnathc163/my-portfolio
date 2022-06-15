@@ -18,7 +18,7 @@ export default function IndexPage() {
         <HeroSection sectionId="hero" />
         <AboutSection sectionId="about" heading="About Me" />
         {/* <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} /> */}
-        <InterestsSection sectionId="details" heading="Skillset" />
+        <InterestsSection sectionId="details" heading="Languages and Frameworks" />
         <ProjectsSection sectionId="features" heading="My Favorite Projects" />
         <ContactSection sectionId="github" heading="Let's Make An Impact." />
       </Page>

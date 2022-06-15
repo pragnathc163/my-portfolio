@@ -21,7 +21,7 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
+        { "label": "Skills", "url": "/#details" },
         { "label": "Projects", "url": "/#features" },
         { "label": "Contact", "url": "/#github" }
       ],
