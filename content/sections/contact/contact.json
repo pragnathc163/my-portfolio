@@ -2,6 +2,10 @@
   "name": "Pragnath Chintalapati",
   "email": "prag2002@uw.edu",
   "description": "Feel free to connect with me on my LinkedIn, or reach out to me via my email. Would love to be part of an opportunity to which I can bring my skills to create impact.",
+  "image": {
+    "src": "../../images/favicon.png",
+    "alt": "Gatsby Logo"
+  },
   "socialProfiles": {
     "from": ["LinkedIn", "Github"],
     "showIcons": true
