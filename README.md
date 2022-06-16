@@ -1,1 +1,1 @@
-My personal software engineering portfolio website written using JavaScript - ReactJS and GatsbyJS!
+My personal software engineering portfolio website written using JavaScript - React and GatsbyJS!
