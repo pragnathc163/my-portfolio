@@ -1,6 +1,6 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "Pragnath Chintalapati"
+imageSrc: "../../images/code.jpg"
+imageAlt: "code"
 ---
 
 
